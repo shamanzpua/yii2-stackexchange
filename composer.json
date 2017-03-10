@@ -1,0 +1,21 @@
+{
+    "name": "shamanzpua/yii2stackexchange",
+    "description": "yii2 stackexchange component",
+    "keywords": ["request", "api", "yii2", "stackexchange"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "shamanzpua/stackexchange": "1.0.1",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "shamanzpua\\yii2stackexchange\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shamanzp",
+            "email": "yura224k@gmail.com"
+        }
+    ]
+}
