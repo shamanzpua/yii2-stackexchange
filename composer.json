@@ -4,7 +4,7 @@
     "keywords": ["request", "api", "yii2", "stackexchange"],
     "license": "BSD-3-Clause",
     "require": {
-        "shamanzpua/stackexchange": "1.0.1",
+        "shamanzpua/stackexchange": "*",
         "yiisoft/yii2": "~2.0.0"
     },
     "autoload": {

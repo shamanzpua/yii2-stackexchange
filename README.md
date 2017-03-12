@@ -7,7 +7,7 @@ Yii2 stackexchange api component
 Add to composer.json
 ````
  "require": {
-    "shamanzpua/yii2stackexchange": "1.0"
+    "shamanzpua/yii2stackexchange": "*"
  }
 ````
 #### Configuration:
